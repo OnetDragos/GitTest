@@ -1,0 +1,1 @@
+{"salesstatisticsexport":{"subsidaryId":"${subsidiary}","invoiceSalesPriceGross":"${invoiceVH} ${salesPriceGross}","surplus":"${surplus}","surplusInPercent":"${surplus} %","invoiceCorrectionNo":"${invoiceCorrection} ${invoiceNo}","invoiceNo":"${invoiceVH} ${invoiceNo}","invoiceCurrency":"${invoiceVH} ${currency}"}}
