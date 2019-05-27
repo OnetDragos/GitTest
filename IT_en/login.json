@@ -1,1 +1,1 @@
-{"login":"Anmelden"}
+{"login":{"wrongPassword":"","resetPasswordExpired":"","unknownUserOrInvalidPassword":"","deniedByReleaseMode":"","sessionBackupFound":"","initialPasswordHasToBeChanged":"","missingChangeUserRightsForm":"","resetPasswordHasToBeChanged":"","cdAccountMissing":"","noSuccess":"","noUser":{"createNew":""},"passwordExpired":"","noUserData":""}}

@@ -1,1 +1,1 @@
-{"mbks":{"requestID":"Anfrage-ID","requestorName":"Neufahrzeugverkäufer/ TS-Verkäufer"}}
+{"mbks":{"overview":{"notAllRequestsDisplayed":"","noRequestFound":""},"acceptanceSpeech":"","requestDataParseError":"The data from MBKS could not be read correctly. Please contact the IUCCA-Hotline.","login":{"invalidPassword":"","userDeactivated":""},"takeToCim":{"error":""}}}

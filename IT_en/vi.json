@@ -1,1 +1,1 @@
-{"vi":{"databaseError":"Fehler beim Zugriff auf die VI-Datenbank"}}
+{"vi":{"gfgWebService":{"error":"An error has occurred while sending vehicle data to UVS ! Please contact your hotline. (Reason: {0})"},"databaseError":"Error while accessing the VI database"}}

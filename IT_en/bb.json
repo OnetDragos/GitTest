@@ -1,1 +1,1 @@
-{"bb":{"sendingFailed":"Bei der Meldung an das BuyBack-Managementsystem IBIS wurde ein Fehler zurückgemeldet. Vermutlich ist für die zugehörige IBIS-Akte diese Aktion nicht erlaubt.","infrastructureError":"Das BuyBack-Managementsystem IBIS ist momentan nicht verfügbar."}}
+{"bb":{"sendingFailed":"Error while registering to IBIS Buy-Back Management system","malformedURL":"Invalid URL for the Buy-Back Management interface","infrastructureError":"The buyback management system IBIS is not available at the moment."}}

@@ -1,1 +1,1 @@
-{"ERROR":"${errors}"}
+{"error":{"databaseException":"","preExecPrintError":"","unexpected":"","sessionTimeOut":"","illegalPageAccess":"","sessionCorrupted":""}}

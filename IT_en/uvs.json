@@ -1,0 +1,1 @@
+{"uvs":{"uvsMasterDataError":"Error while accessing UVS-MasterData service","internalError":"Internal error by accessing to the UVS system","uvsExchangeRateError":"Error while accessing UVS-ExchangeRate service","error":"Error while reporting to UVS.","uvsInfoError":"Error while accessing UVS-Info service"}}
