@@ -1,0 +1,1 @@
+{"sessions":{"messages":{"success":"<strong>Session invalidated!</strong>","error":"<strong>An error has occurred!</strong> The session could not be invalidated."},"title":"Active sessions for [<b>{{username}}</b>]","table":{"button":"Invalidate","date":"Date","ipaddress":"IP address","useragent":"User Agent"}}}

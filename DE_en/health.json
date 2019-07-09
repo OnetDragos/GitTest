@@ -1,0 +1,1 @@
+{"health":{"indicator":{"mail":"Email","diskSpace":"Disk space","db":"Database"},"stacktrace":"Stacktrace","refresh":{"button":"Refresh"},"details":{"name":"Name","details":"Details","error":"Error","value":"Value","properties":"Properties"},"title":"Health Checks","table":{"service":"Service name","status":"Status"},"status":{"DOWN":"DOWN","UP":"UP"}}}

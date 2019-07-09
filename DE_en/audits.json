@@ -1,0 +1,1 @@
+{"audits":{"filter":{"button":{"weeks":"Weeks","today":"today","clear":"clear","close":"close"},"from":"from","to":"to","title":"Filter per date"},"title":"Audits","table":{"data":{"remoteAddress":"Remote Address:"},"header":{"date":"Date","principal":"User","data":"Extra data","status":"State"}}}}
